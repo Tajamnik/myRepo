@@ -1,0 +1,8 @@
+{
+  "access_token": "MJQ7zzAHEnv4ti4sLcGODC8tBG2A4DAcRCf4rz2XBM7pNTh1fWFLu4",
+  "token_type": "Bearer",
+  "expires_in": "3600",
+  "refresh_token": "hNgGiRef3z2H7B2LEqRsJZWH4k8l8uwmkLg2pQEaM5tXZG",
+  "scope": "xyz",
+  "id_token": "xxx.yyy.zzz"
+}
