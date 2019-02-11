@@ -1,11 +1,11 @@
 {
   "posts": [
     {
+
+
     "id": 1,
-      "meta": {},
-  "jsonapi": {
-    "version": "1.0"
-  },
+  "meta": {},
+  "jsonapi": {"version": "1.0"},
   "data": {
     "type": "WorkerTask",
     "id": "27b88314-49f1-4e14-ba8a-762bdab75d53",
@@ -15,10 +15,8 @@
       "lastModifiedTime": "2017-07-05T11:50:00.000Z",
       "requestId": "154d4596-b301-4ae3-a402-72651b13818f",
       "resource": "quotes"
-    },
-    "links": {
-      "self": "http://api.suncorp.com.au/insurance/general/claim/v1/quotes?filter=[referenceNumber]=QR12343",
-      "result": "http://api.suncorp.com.au/insurance/general/claim/v1/workerTask/f3d3a366-56db-45df-af6e-227c7449328d/result"
     }
   }
+  }
+  ]
 }
