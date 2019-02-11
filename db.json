@@ -1,23 +1,27 @@
 {
-  "posts": [
-    {
-	
-	
-    "id": 1,
-  "meta": {},
-  "jsonapi": {"version": "1.0"},
-  "data": {
-    "type": "WorkerTask",
-    "id": "27b88314-49f1-4e14-ba8a-762bdab75d53",
-    "attributes": {
-      "status": "PENDING",
-      "createTime": "2017-07-05T11:50:00.000Z",
-      "lastModifiedTime": "2017-07-05T11:50:00.000Z",
-      "requestId": "154d4596-b301-4ae3-a402-72651b13818f",
-      "resource": "quotes"
-    }
-  }	  
-	  
-    }
-  ]
+	"posts": [
+		{
+		
+		
+			"id": 1,
+			"meta": {},
+			"jsonapi": {
+				"version": "1.0"
+			},
+			"data": {
+				"type": "WorkerTask",
+				"id": "27b88314-49f1-4e14-ba8a-762bdab75d53",
+				"attributes": {
+					"status": "PENDING",
+					"createTime": "2017-07-05T11:50:00.000Z",
+					"lastModifiedTime": "2017-07-05T11:50:00.000Z",
+					"requestId": "154d4596-b301-4ae3-a402-72651b13818f",
+					"resource": "quotes"
+				}
+			}
+			
+			
+			
+		}
+	]
 }
