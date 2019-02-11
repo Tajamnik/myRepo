@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-
-
+	
+	
     "id": 1,
   "meta": {},
   "jsonapi": {"version": "1.0"},
@@ -16,7 +16,8 @@
       "requestId": "154d4596-b301-4ae3-a402-72651b13818f",
       "resource": "quotes"
     }
-  }
-  }
+  }	  
+	  
+    }
   ]
 }
